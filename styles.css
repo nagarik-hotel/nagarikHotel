@@ -76,7 +76,7 @@ h4 { font-size: 1rem; letter-spacing: 0.04em; text-transform: uppercase; margin-
 }
 .hero-bg {
   position: absolute; inset: 0;
-  background-image: url('/assets/nagarik-overlay.png');
+  background-image: url('/assets/nagarik-overlay.jpeg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
